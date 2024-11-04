@@ -4,8 +4,7 @@
 select * 
 from layoffs;
 
-
-SELECT * 
+SELECT* 
 FROM layoffs_staging;
 
 #INSERT DATA
