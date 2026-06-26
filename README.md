@@ -19,7 +19,7 @@ Tags: `Python` `SQL` `PosttreSQL` `MYSQL` `Microsoft Excel` `Pandas` `NumPy` `Ta
 ---
 
 ### 📫 Connect with me
-*   💼 **LinkedIn:** [Putu Arismadi](linkedin.com/in/putu-arismadi-103223223/)
+*   💼 **LinkedIn:** [My Linkedin]([linkedin.com/in/putu-arismadi-103223223/](https://www.linkedin.com/in/putu-arismadi/))
 *   📧 **Email:** putuarismadii@gmail.com
 
 ---
