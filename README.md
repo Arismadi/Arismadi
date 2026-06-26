@@ -19,8 +19,8 @@ Tags: `Python` `SQL` `PosttreSQL` `MYSQL` `Microsoft Excel` `Pandas` `NumPy` `Ta
 ---
 
 ### 📫 Connect with me
-*   💼 **LinkedIn:** [://linkedin.com](linkedin.com/in/putu-arismadi-103223223/)
-*   📧 **Email:** email-putuarismadii@gmail.com
+*   💼 **LinkedIn:** [Putu Arismadi](linkedin.com/in/putu-arismadi-103223223/)
+*   📧 **Email:** putuarismadii@gmail.com
 
 ---
 *📊 "In God we trust, all others must bring data."*
