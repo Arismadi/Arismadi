@@ -14,7 +14,7 @@ I am deeply passionate about the entire data lifecycle. My goal is to bridge the
 ---
 
 ### 🚀 Tech Stack & Tools
-Tags: `Python` `SQL` `PosttreSQL` `MYSQL` `Microsoft Excel` `Pandas` `NumPy` `Tableau` `PowerBI` `Git`
+Tags: `Python` `SQL` `PostreSQL` `MYSQL` `Microsoft Excel` `Pandas` `NumPy` `Tableau` `PowerBI` `Git`
 
 ---
 
